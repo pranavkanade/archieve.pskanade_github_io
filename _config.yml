@@ -1,0 +1,36 @@
+# site settings
+title: _all_nighter_
+subtitle:
+email: k.pranav.apk@gmail.com
+description: My site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Pranav Kanade
+street_address: Warje-Malwadi Road
+city: Pune
+state: Maharashtra
+zip_code: 411044
+country: India
+phone: +91 9876543210
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/prakanad
+github_url: https://github.com/pskanade
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/pranavskanade/
+linkedin_url: https://www.linkedin.com/in/pranav-kanade/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/pranavskanade
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
