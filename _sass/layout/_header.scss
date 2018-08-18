@@ -69,6 +69,15 @@
 			height: inherit;
 			line-height: inherit;
 
+			.icon-search {
+				display: inline-block;
+				width: 1.5rem;
+				height: 1.5rem;
+				fill: #fff;
+				margin: 1em;
+				align-items: center;
+			  }
+
 			a {
 				border: 0;
 				display: block;
