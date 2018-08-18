@@ -394,8 +394,8 @@ html {
     position: fixed;
     top: 30px;
     width: 100%;
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 20%;
+    padding-left: 20%;
     -webkit-transform: translateY(-200px);
     transform: translateY(-200px);
     z-index: 19;
@@ -420,18 +420,18 @@ html {
   }
   .search-form .search-field {
     width: 100%;
-    height: 2.5rem;
-    line-height: 1.875rem;
+    height: 3rem;
+    /* line-height: 1.875rem; */
     font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 1.25rem;
-    color: #141414;
+    color: #ac3c3c;
     background-color: #fff;
-    border: 0;
-    border-radius: 1.25rem;
-    padding: 0.313rem 1.563rem;
-    outline: 0;
+    /* border */
+    /* border-radius: 1.25rem; */
+    /* padding: 0.313rem 1.563rem; */
+    /* outline: 0; */
   }
   .search-form .search-field:focus {
     outline: 0;
@@ -443,7 +443,7 @@ html {
     -ms-filter: none;
     -webkit-filter: none;
     filter: none;
-    opacity: 1;
+    opacity: 0.75;
   }
   .search-form .search-list {
     position: absolute;
@@ -637,6 +637,7 @@ html {
     position: relative;
     z-index: 1;
     max-width: 30em;
+    background-color: #fff;
   }
   @media only screen and (min-width: 37.5rem) {
     .box-item {
@@ -656,7 +657,7 @@ html {
   }
   .box-item:hover .box-body time,
   .box-item:hover .box-body p {
-    color: #fff;
+    color: rgb(2, 2, 2);
   }
   .box-item:hover .box-body .new-post:after {
     background-color: #000;
@@ -681,19 +682,20 @@ html {
     padding: 0 0.938rem;
   }
   .box-item .category a {
-    color: #fff;
+    color: rgb(3, 3, 3);
   }
   .box-item .box-body img {
     width: 100%;
     height: auto;
     margin: 0 auto;
+    padding: -1em;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
   }
   .box-item .box-body time {
     font-weight: 300;
     font-size: 1rem;
-    color: #797979;
+    color: black;
     pointer-events: none;
   }
   .box-item .box-body h2 {
@@ -702,21 +704,21 @@ html {
     font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
     font-weight: 800;
     font-style: normal;
-    color: #fff;
+    color: rgb(24, 22, 22);
     line-height: 1.875rem;
   }
   .box-item .box-body p {
     margin: 0 0 1.875rem;
-    color: #c2c2c2;
+    color: #1b1a1a;
     font-size: 1.063rem;
     line-height: 1.625rem;
   }
   .box-item .box-body .tags a {
     height: 1.875rem;
     line-height: 1.625rem;
-    color: #fff;
+    color: rgb(26, 25, 25);
     padding: 0 0.625rem;
-    border: 1px solid #fff;
+    border: 1px solid rgb(10, 27, 102);
     border-radius: 15px;
     display: inline-block;
     margin: 0 0.625rem 0.625rem 0;
@@ -731,8 +733,8 @@ html {
     content: "New post";
     text-transform: uppercase;
     display: inline-block;
-    background: #ff0a16;
-    color: #fff;
+    background: #cfcece;
+    color: rgb(2, 2, 3);
     font-size: 0.813rem;
     font-weight: 700;
     line-height: 1.5rem;
