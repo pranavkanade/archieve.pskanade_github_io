@@ -1,10 +1,14 @@
 <!-- Wrapper -->
 <div id="wrapper">
 
+{% include svg-icons.html %}
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ site.url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
+		<a id="search" class="dosearch">
+			<svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+		</a>
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
