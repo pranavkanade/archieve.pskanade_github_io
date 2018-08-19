@@ -1,6 +1,6 @@
 ---
-layout: allpostsnew
-title: New Posts
+layout: allposts
+title: All Posts
 landing-title: 'All posts'
 index: true
 nav-menu: true

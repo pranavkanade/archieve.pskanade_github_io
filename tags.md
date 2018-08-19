@@ -6,13 +6,6 @@ description: 'Page to display all tags for posts'
 nav-menu: true
 index: false
 ---
-<!-- 
----
-layout: minimal
-title: "#Tags"
-permalink: /tags/index.html
-description: "Procure por sua #tag favorita."
---- -->
 
 <div class="tags">
 {% assign tags_list = site.tags %}
