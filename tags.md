@@ -1,5 +1,5 @@
 ---
-title: "#Tags"
+title: "Tags"
 layout: tags
 description: 'Page to display all tags for posts'
 # image: assets/images/pic07.jpg
