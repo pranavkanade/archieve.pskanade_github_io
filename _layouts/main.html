@@ -9,7 +9,7 @@ layout: compress
     <body>
         {% include header.html %}
         {% include search.html %}
-        <link rel="stylesheet" href="{{ "assets/css/allpostsnew.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ "/assets/css/allpostsnew.css" | prepend: site.baseurl }}">
             <section class="content">
                 {{ content }}
             </section>
@@ -17,4 +17,3 @@ layout: compress
         {% include footer.html %}
     </body>
 </html>
-
