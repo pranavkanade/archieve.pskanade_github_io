@@ -1,9 +1,18 @@
 ---
+title: "#Tags"
+layout: tags
+description: 'Page to display all tags for posts'
+# image: assets/images/pic07.jpg
+nav-menu: true
+index: false
+---
+<!-- 
+---
 layout: minimal
 title: "#Tags"
 permalink: /tags/index.html
 description: "Procure por sua #tag favorita."
----
+--- -->
 
 <div class="tags">
 {% assign tags_list = site.tags %}
@@ -27,7 +36,7 @@ description: "Procure por sua #tag favorita."
         {% for post in pages_list reversed %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
-            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%m/%d/%Y" }}</time></a></li>
+            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%a, %b %d, %y" }}</time></span></a></li>
             {% endif %}
             {% endif %}
         {% endfor %}
