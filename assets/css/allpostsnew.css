@@ -777,7 +777,7 @@ html {
   .post {
     position: relative;
     top: 1.875rem;
-    background: #fff;
+    background: inherit;
   }
   @media only screen and (min-width: 37.5rem) {
     .post {
@@ -807,7 +807,7 @@ html {
   }
   .post-content img + em {
     display: block;
-    color: #a9a9a9;
+    color: #fff;
     text-align: center;
     font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
     font-weight: 300;
@@ -1147,9 +1147,9 @@ html {
   }
   .post-content .tags a {
     font-size: 0.875rem;
-    color: #141414;
+    color: #fff;
     display: inline-block;
-    border: 1px solid #141414;
+    border: 1px solid #fff;
     border-radius: 1.25rem;
     padding: 0 0.625rem;
     margin-right: 0.125rem;
@@ -1160,15 +1160,16 @@ html {
   }
   .post-content .tags a:hover {
     color: #fff;
-    border: 1px solid #141414;
-    background-color: #141414;
+    border: 1px solid #ffffff;
+    background-color: #fff;
   }
   .post-content .tag-title {
     font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
-    font-weight: 300;
+    font-weight: 1000;
     font-style: normal;
-    font-size: 2.375rem;
-    margin-top: 3.75rem;
+    font-size: 3.375rem;
+    padding-top: 1em;
+    /* margin-top: 6.75rem; */
     width: auto;
     max-width: 50rem;
     float: none;
@@ -1177,6 +1178,7 @@ html {
     margin-left: auto;
     padding-left: 0;
     padding-right: 0;
+    color: #fff;
   }
   .post-content .tag-title::after {
     content: "";
@@ -1201,15 +1203,13 @@ html {
   }
   .post-content .post-list a {
     display: block;
-    border-bottom: 1px solid #dadada;
+    color: #fff;
+    border-bottom: 0px solid #fff;
     padding: 0.625rem 0;
     text-decoration: none;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     font-size: 1.125rem;
-  }
-  .post-content .post-list a:hover {
-    border-bottom: 1px solid #ff0a16;
   }
   .post-content .post-list .entry-date {
     float: right;
