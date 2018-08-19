@@ -6,11 +6,15 @@
 -->
 <html>
 
+{% include headapn.html %}
 {% include head.html %}
 
 <body>
 
     {% include header.html %}
+    {% include search.html %}
+    <link rel="stylesheet" href="{{ "assets/css/allpostsnew.css" | prepend: site.baseurl }}">
+    <script src="{{ "/assets/js/allpostsnew.js" | prepend: site.baseurl }}"></script>
 
     <!-- Banner -->
     <section id="banner" class="major">
