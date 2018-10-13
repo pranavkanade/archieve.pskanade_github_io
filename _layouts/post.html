@@ -24,7 +24,7 @@
 		</header>
 		{% if page.image contains "http://" %}<span class="image main"><img src="{{ page.image }}" alt="" /></span>{% endif %}
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-		<div>
+		<div id="controlled">
 			<link rel="stylesheet" href="/assets/css/textcontrol.css">
 			<p class="flow-text">{{ content }}</p>
 		</div>
