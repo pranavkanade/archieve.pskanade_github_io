@@ -25,7 +25,9 @@ So, here I go .. ! Setting up things !
 
 **Link** - [Github : Create new repository](https://github.com/new)
 
-<span class="image fit"><img src="/assets/images/2018-08-20-allnighter/pic1.png" alt="" /></span>
+<!-- <span class="image fit"> -->
+<img src="/assets/images/2018-08-20-allnighter/pic1.png" alt="" />
+<!-- </span> -->
 
 
 #### Step 2 : Setting up local system
@@ -44,7 +46,9 @@ Here is the result of googling - ["free jekyll themes"](https://www.google.co.in
 I got [**FORTY**](https://jekyllthemes.io/theme/forty-jekyll-theme) for myself!
 
 <!-- to fit image -->
-<span class="image fit"><img src="/assets/images/2018-08-20-allnighter/pic2.png" alt="" /></span>
+<!-- <span class="image fit"> -->
+<img src="/assets/images/2018-08-20-allnighter/pic2.png" alt="" />
+<!-- </span> -->
 
 <blockquote>Don't waste too much time just pick this one.. .! It is hard to edit cause there are dozen things to edit but hell with them !</blockquote>
 

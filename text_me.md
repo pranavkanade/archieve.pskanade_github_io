@@ -5,7 +5,7 @@ landing-title: 'TextMe'
 index: true
 nav-menu: true
 description: This is the contact form
-image: assets/images/pic07.jpg
+image: assets/images/textme.jpg
 author: pranav kanade
 message: Thanks, for visiting my site! I'll get back to you as soon as I can.
 ---
