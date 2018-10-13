@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 
     {% include head.html %}
@@ -12,7 +8,7 @@
 
         {% include header.html %}
 
-        <section id="banner" class="style4">
+        <section id="banner" class="style3">
             <div class="inner">
                 <span class="image">
                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
@@ -29,8 +25,12 @@
                 </div>
             </div>
         </section>
-
-    {{ content }}
+        <section id="two">
+                <div class="inner" id="controlled">
+                        <link rel="stylesheet" href="/assets/css/textcontrol.css">
+                        <p class="flow-text">{{ content }}</p>
+                </div>
+        </section>
 
     {% include footer.html %}
 
