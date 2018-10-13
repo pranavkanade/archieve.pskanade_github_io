@@ -1,11 +1,13 @@
 ---
-layout: main
+layout: textme
 title: Text Me!
 landing-title: 'TextMe'
-index: false
+index: true
 nav-menu: true
 description: This is the contact form
+image: assets/images/pic07.jpg
 author: pranav kanade
+message: Thanks, for visiting my site! I'll get back to you as soon as I can.
 ---
 <!-- Contact -->
 <section id="contact">
