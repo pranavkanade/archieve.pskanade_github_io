@@ -25,8 +25,7 @@ So, here I go .. ! Setting up things !
 
 **Link** - [Github : Create new repository](https://github.com/new)
 
-![Create Repository !!](/assets/images/2018-08-20-allnighter/pic1.png)
-
+<span class="image fit"><img src="/assets/images/2018-08-20-allnighter/pic1.png" alt="" /></span>
 
 
 #### Step 2 : Setting up local system
@@ -38,18 +37,16 @@ So, here I go .. ! Setting up things !
 
 #### Step 3 : Hunt down free theme !!
 
-> **Suggestion :** If you want to do all by your self then please go on read the jekyll doc 🤯🤯🤯🤯. If your are into that sort of thing..!
+<blockquote><b>Suggestion :</b> If you want to do all by your self then please go on read the jekyll doc 🤯🤯🤯🤯. If your are into that sort of thing..!</blockquote>
 
 Here is the result of googling - ["free jekyll themes"](https://www.google.co.in/search?q=free+jekyll+themes&rlz=1C5CHFA_enIN764IN764&oq=free+jekyll&aqs=chrome.0.0j69i60j69i61j69i57j0l2.3375j0j4&sourceid=chrome&ie=UTF-8)
 
 I got [**FORTY**](https://jekyllthemes.io/theme/forty-jekyll-theme) for myself!
 
-![](/assets/images/2018-08-20-allnighter/pic2.png)
+<!-- to fit image -->
+<span class="image fit"><img src="/assets/images/2018-08-20-allnighter/pic2.png" alt="" /></span>
 
-
-
->**PS :** Don't waste too much time just pick this one.. .! It is hard to edit cause there are dozen things to edit but hell with them !
-
+<blockquote>Don't waste too much time just pick this one.. .! It is hard to edit cause there are dozen things to edit but hell with them !</blockquote>
 
 
 #### Step 4 : Lets do the fun work .. shall, we ?! 🤘
@@ -59,6 +56,7 @@ You'll need this - [Forty Source Code](https://github.com/andrewbanchich/forty-j
 1. Clone this reposity. (_I believe you can do this by your self_ 😇)
 
 2. Remove existing `.git` dir.
+
 ```bash
 cd cloned_repo
 
