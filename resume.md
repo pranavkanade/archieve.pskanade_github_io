@@ -14,57 +14,63 @@ message: This is my resume
 
 ## At a glance
 
-- Deep learning specialization certification from coursera (by, Dr. Andrew Ng) - March-April, 2018
-- Completed MOOC **Deep learning for coders** from Fast.ai (by, Jeremy Howards) - Jan-March, 2018
-- Research Paper presented **Comparative Study of Automatic Mathematical Word Problem Solver** - March, 2017
+- In morning, I am a software engineer at **Persistent Systems**.
+- But at night I am a **Pythonista** , who is in pursuit of building the **AI programmer**.
+- You will always find me experimenting with some new technology. Currently **Blockchain** has my attention.
 
 ## Initiatives
 
-- Sunday-Projects:
-  - This is one of the best initiatives that I've stated. Its main goal was to get familiar with different technologies.
-  - The aim of it is to develop an end to end running project using new and up-coming technologies.
-- Load-star:
+1. **[Sunday-Projects](https://github.com/pskanade/sunday-projects)**:
+  - **Aim:** To experiment with new technologies.
+  - It gives me an opportunity to learn how some of the new technology works. It helps in identifying the use cases where a particular tech will be useful.
+2. Load-star:
   - This was a group that I'd started during my second year of college.
   - I started this with an aim to help students to address their problems.
 
 ## Courses and Certifications
 
-- Deep Learning Specialist (Coursera):
+1. **Deep Learning Specialist (Coursera)**:
   - **[Deeplearning_specialization](https://github.com/pskanade/Deeplearning_specialization)** : Repository of all the assignments completed in regards to completion of Deep learning specialization.
-- Python for Data Science (IBM):
-- Using Python to Access Web Data (Coursera):
+2. **Python for Data Science (IBM)**:
+  - A badge that I completed in showcasing my knowledge of the language.
+3. **Using Python to Access Web Data (Coursera)**:
   - **[python_to_access_web_data](https://github.com/pskanade/python_to_access_web_data)** : Repository of all the assignments completed in regards to completion of the course.
 
 ## Independent Projects
 
-- "Reimplementation of pix2code" : Based on research paper from april 2017. (Working on it)
+1. **Reimplementation of pix2code** : Based on research paper from april 2017. (Working on it)
   - It uses, CNN (for Image captioning) and LSTM (for sampling the code sequence being generated)
-- **[stretch](https://github.com/pskanade/stretch)** : My one of the most ambitious long term project
-- **[ICPC_repo](https://github.com/pskanade/ICPC_repo)** : A repository of implementation of popular Algorithms and Data structures.
+2. **[stretch](https://github.com/pskanade/stretch)** : My one of the most ambitious long term project
+3. **[ICPC_repo](https://github.com/pskanade/ICPC_repo)** : A repository of implementation of popular Algorithms and Data structures.
 
 ## Hackathon Projects
 
-- "Smart-Insurance" : Payment pipeline of an insurance company based on Block-chain
+1. **[Smart-Insurance](https://github.com/pskanade/Ethereum_DAAP_Flight_Insurance_Company)** : Payment pipeline of an insurance company based on Blockchain
   - Developed during Persistent Systems' annual hackathon - Semicolons
-- "Effi" : An automatic code efficiency tracking system for newbie developers
+2. **[Effi](https://github.com/pskanade/Effi-base)** : An automatic code efficiency tracking system for newbie developers
   - Developed during Smart India Hackathon - by, Govt. India.
-- "Picky" : An android application that enables grocery store owners to flash their discount offers
+3. **[Picky](https://github.com/pskanade/Infy_Hackathon)** : An android application that enables grocery store owners to flash their discount offers
   - Developed during Techzooka - organized by, Infosys
 
 ## Open Source Contribution
 
-- "webpy" (branch : pytest) - Developed an unit testing module for network utilities.
-- "pytorch" - Found bug in the library!
-- "spacy" - Found bug in the library!
+1. "webpy" (branch : pytest) - Developed an unit testing module for network utilities.
+2. "pytorch" - Found bug in the library!
+3. "spacy" - Found bug in the library!
 
 ## Experience
 
-- Software Engineer : (Persistent Systems Ltd.)  Oct,2017 - current
-  - I worked on Hybrid Cloud database appliance - IBM Netezza.
+- **Software Engineer** : (Persistent Systems Ltd.) Oct,2017 - current
+  - I work on Hybrid Cloud database appliance - IBM Netezza.
   - My responsibilities involve product enhancement.
-- Teaching Assistant : (Persistent Computing Institute) Nov-Dec,2016
-  - Subject: Mathematical Thinking for computing.
-  - Where I had privileged to assist some of the best researchers from all over the country in their lectures.
-- Technical Secretary (Association of Computer Engg. Students) : July, 2016 - May, 2017
+- **Teaching Assistant** : (Persistent Computing Institute) Nov-Dec,2016
+  - Subject 1: **Mathematical Thinking for computing**
+  - Subject 2: **Basics of Program Expression and Program execution**
+  - I had privileged to assist some of the best researchers from all over the country in their lectures.
+- **Technical Secretary** (Association of Computer Engg. Students) : July, 2016 - May, 2017
   - Lead a team of 7, which was responsible for conducting multiple technical programs.
     - Highlights include organizing **National conference on Emerging trends in computer engineering** sponsored by **Springer**.
+
+## MOOC
+
+- Completed MOOC **Deep learning for coders** from Fast.ai (by, Jeremy Howards) - Jan-March, 2018
