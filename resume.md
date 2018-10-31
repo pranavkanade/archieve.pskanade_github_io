@@ -11,14 +11,15 @@ message: This is my resume
 ---
 
 # Pranav Kanade
+##### <a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a>
 
-## At a glance
+#### At a glance
 
 - In morning, I am a software engineer at **Persistent Systems**.
 - But at night I am a **Pythonista** , who is in pursuit of building the **AI programmer**.
 - You will always find me experimenting with some new technology. Currently **Blockchain**(Ethereum) has my attention.
 
-## Initiatives
+#### Initiatives
 
 1. **[Sunday-Projects](https://github.com/pskanade/sunday-projects)**:
   <br/>**AIM :** _To experiment with new technologies._
@@ -29,7 +30,7 @@ message: This is my resume
   <br/>**AIM :** _To help students with programming._
   - Started this when I was in second year of my degree program.
 
-## Independent Projects
+#### Independent Projects
 
 0. **[Fundme - with ethereum](https://github.com/pskanade/fundMe-With-Ethereum)** : (Working on it)
   <br/>**AIM :** _Build a clone of kickstarter, which makes it difficult for scammers to take advantage of the platform._
@@ -53,7 +54,7 @@ message: This is my resume
   - So, I wrote aprox 6000 lines of code over two months.
   - A repository of implementation of popular Algorithms and Data structures.
 
-## Hackathon Projects
+#### Hackathon Projects
 
 1. **Smart-Insurance** : Payment pipeline of an insurance company based on Blockchain
   - Developed during Persistent Systems' annual hackathon - Semicolons
@@ -62,13 +63,13 @@ message: This is my resume
 3. **[Picky](https://github.com/pskanade/Infy_Hackathon)** : An android application that enables grocery store owners to flash their discount offers
   - Developed during Techzooka - organized by, Infosys
 
-## Open Source Contribution
+#### Open Source Contribution
 
 1. **webpy** (branch : pytest) - Developed an unit testing module for network utilities.
 2. **pytorch** - Found bug in the library!
 3. **spacy** - Found bug in the library!
 
-## Technical skill set
+#### Technical skill set
 
 <div class="row">
 	<div class="4u 12u$(medium)">
@@ -103,8 +104,7 @@ message: This is my resume
     </ul>
 	</div>
 </div>
-
-## Experience
+#### Experience
 
 - **Software Engineer** : (Persistent Systems Ltd.) Oct,2017 - current
   - I work on DB2 solution - IBM Sailfish.
@@ -118,8 +118,7 @@ message: This is my resume
   - Lead a team of 7, which was responsible for conducting multiple technical programs.
     - Highlights include organizing **National conference on Emerging trends in computer engineering** sponsored by **Springer**.
 
-
-## Courses and Certifications
+#### Courses and Certifications
 
 1. **Deep Learning Specialist (Coursera)**:
   - **[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9FCHTVXWYY38)**
@@ -137,11 +136,11 @@ message: This is my resume
   - **[Certificate](https://www.udemy.com/certificate/UC-I0656O95/)**
   - Wanted to get formal refresher course.
 
-## MOOCs
+#### MOOCs
 
 - **Deep learning for coders** from Fast.ai (by, Jeremy Howards) - Jan-March, 2018
 
-## Education
+#### Education
 
 
 | **Qualification**            | College/School                                   | University/Board | Aggregate percentage | Duration    |
