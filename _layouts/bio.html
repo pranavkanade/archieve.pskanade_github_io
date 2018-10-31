@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+    {% include head.html %}
+
+    <body>
+
+        {% include header.html %}
+
+        <section id="banner" class="style2">
+            <div class="inner">
+                <span class="image">
+                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                </span>
+                <header class="major">
+
+                    <h1>{{ page.title }}</h1>
+
+                </header>
+                <div class="content">
+
+                    <h3>{{ page.message }}</h3>
+
+                </div>
+            </div>
+        </section>
+        <section id="two">
+                <div class="inner" id="controlled">
+                        <link rel="stylesheet" href="/assets/css/textcontrol.css">
+                        <p class="flow-text">{{ content }}</p>
+                </div>
+        </section>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
