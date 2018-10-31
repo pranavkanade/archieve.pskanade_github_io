@@ -4,7 +4,7 @@ title: Generic
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
-index: true
+index: false
 ---
 
 In any formal education system, an individual spends almost 10 - 12 years in school for academics. The cautious comparative evaluation of the time spent, to the actual life lessons one gets, huge dreath will be observed. As the pubic brain graps things more quickly than that of the adult one, schools should take on the responsibility to guide students for the non-academic challenges they will face after adolescence.

@@ -2,7 +2,7 @@
 layout: post
 title: "_ALL_NIGHTER_"
 date: 2018-08-20 22:34:00
-image: /assets/images/2018-08-20-allnighter/Cover.jpg
+image: assets/images/2018-08-20-allnighter/Cover.jpg
 description: Part 1 of how this website is got its shape!
 category: 'tutorial'
 tags:
