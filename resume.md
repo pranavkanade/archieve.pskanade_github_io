@@ -42,7 +42,7 @@ message: This is my resume
   - This is work in progress, I've collected the dataset of python challenges from HackerRank.
 0. **[Engine](https://docs.google.com/presentation/d/1xx47F7LHWmTFWdr02P0p4RaAAIR-18HG1jMigHAoAA0/edit?usp=sharing)** : (July, 16 - May, 17)
  <br/>**AIM :** _Automatic text categorization and solving mathematical word problems._
-  - We were able to build a system which was able to solve algebric word problems autonomously.
+  - We were able to build a system which was able to solve algebraic word problems autonomously.
   - Project was fully funded by Persistent Systems Ltd. Pune.
   - PS: open slide deck in presentation mode :)
 0. **Reimplementation of pix2code** : (Working on it)
@@ -51,7 +51,7 @@ message: This is my resume
   - It uses, CNN (for Image captioning) and LSTM (for sampling the code sequence being generated)
 0. **[ICPC_repo](https://github.com/pskanade/ICPC_repo)** :
   <br/>AIM: _Get selected for ACM ICPC onsite round_
-  - So, I wrote aprox 6000 lines of code over two months.
+  - So, I wrote approx 6000 lines of code over two months.
   - A repository of implementation of popular Algorithms and Data structures.
 
 #### Hackathon Projects
@@ -108,7 +108,7 @@ message: This is my resume
 
 - **Software Engineer** : (Persistent Systems Ltd.) Oct,2017 - current
   - I work on DB2 solution - IBM Sailfish.
-  - I am a part of team RAS. Which means we write a dignostic tool for the apliance and DB2 warehouse.
+  - I am a part of team RAS. Which means we write a diagnostic tool for the appliance and DB2 warehouse.
   - My day to day tool box involves - Python, Docker, Linux, Git and VS-Code.
 - **Teaching Assistant** : (Persistent Computing Institute) Nov-Dec,2016
   - Subject 1: **Mathematical Thinking for computing**
