@@ -38,14 +38,31 @@ message: This is my resume
 
 ## Independent Projects
 
-1. **Reimplementation of pix2code** : Based on research paper from april 2017. (Working on it)
+0. **[Fundme - with ethereum](https://github.com/pskanade/fundMe-With-Ethereum)** : (Working on it)
+  > AIM : Build a clone of kickstarter, which makes it difficult for scammers to take advantage of the platform.
+  - Used **Ethereum** and **Solidity** to implement the contract.
+  - Implemented contract - [link](https://github.com/pskanade/fundMe-With-Ethereum/blob/master/contracts/src/Campaign.sol)
+0. **[stretch](https://github.com/pskanade/stretch)** :
+  > AIM : With this I am trying to build an **AI programmer**.
+  - My one of the most ambitious long term project.
+  - This is work in progress, I've collected the dataset of python challenges from HackerRank.
+0. **[Engine](https://docs.google.com/presentation/d/1xx47F7LHWmTFWdr02P0p4RaAAIR-18HG1jMigHAoAA0/edit?usp=sharing)** : (July, 16 - May, 17)
+ > AIM : Automatic text categorization and solving mathematical word problems.
+  - We were able to build a system which was able to solve algebric word problems autonomously.
+  - Project was fully funded by Persistent Systems Ltd. Pune.
+  - PS: open slide deck in presentation mode :)
+0. **Reimplementation of pix2code** : (Working on it)
+  > AIM : Replicate the original results
+  - Based on research paper from april 2017.
   - It uses, CNN (for Image captioning) and LSTM (for sampling the code sequence being generated)
-2. **[stretch](https://github.com/pskanade/stretch)** : My one of the most ambitious long term project
-3. **[ICPC_repo](https://github.com/pskanade/ICPC_repo)** : A repository of implementation of popular Algorithms and Data structures.
+0. **[ICPC_repo](https://github.com/pskanade/ICPC_repo)** :
+  > AIM: Get selected for ACM ICPC onsite round
+  - So, I wrote aprox 6000 lines of code over two months.
+  - A repository of implementation of popular Algorithms and Data structures.
 
 ## Hackathon Projects
 
-1. **[Smart-Insurance](https://github.com/pskanade/Ethereum_DAAP_Flight_Insurance_Company)** : Payment pipeline of an insurance company based on Blockchain
+1. **Smart-Insurance** : Payment pipeline of an insurance company based on Blockchain
   - Developed during Persistent Systems' annual hackathon - Semicolons
 2. **[Effi](https://github.com/pskanade/Effi-base)** : An automatic code efficiency tracking system for newbie developers
   - Developed during Smart India Hackathon - by, Govt. India.
