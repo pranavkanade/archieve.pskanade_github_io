@@ -32,7 +32,7 @@ message: This is my resume
 
 #### Independent Projects
 
-0. **[Fundme - with ethereum](https://github.com/pskanade/fundMe-With-Ethereum)** : (Working on it)
+0. **[Fund me - with ethereum](https://github.com/pskanade/fundMe-With-Ethereum)** : (Working on it)
   <br/>**AIM :** _Build a clone of kickstarter, which makes it difficult for scammers to take advantage of the platform._
   - Used **Ethereum** and **Solidity** to implement the contract.
   - Implemented contract - [link](https://github.com/pskanade/fundMe-With-Ethereum/blob/master/contracts/src/Campaign.sol)
@@ -79,8 +79,8 @@ message: This is my resume
      <li>Java-Core</li>
      <li>Javascript (Intermediate)</li>
      <li>Solidity (Intermediate)</li>
+     <li>C++</li>
      <li>HTML</li>
-     <li>CSS3</li>
      <li>Linux Scripting</li>
     </ul>
 	</div>
