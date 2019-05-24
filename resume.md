@@ -17,8 +17,8 @@ published: true
 #### At a glance
 
 - In morning, I am a software engineer at **Persistent Systems**.
-- But at night I am a **Pythonista** , who is in pursuit of building the **AI programmer**.
-- You will always find me experimenting with some new technology. Currently **Blockchain**(Ethereum) has my attention.
+- But at night I am a **fullstack hobbyist**, who is in pursuit of building great looking products.
+- You will always find me experimenting with some new technology. Currently **Kubernetes** has my attention.
 
 #### Initiatives
 
@@ -33,7 +33,10 @@ published: true
 
 #### Independent Projects
 
-0. **[Fund me - with ethereum](https://github.com/pskanade/fundMe-With-Ethereum)** : (Working on it)
+0. **[fake_twitter](https://github.com/pskanade/fake_twitter)** :
+  <br/>**AIM :** _Build a clone of twitter's backend._
+  - Used **Python** and **Django** to implement the requirement.
+0. **[Fund me - with ethereum](https://github.com/pskanade/fundMe-With-Ethereum)** :
   <br/>**AIM :** _Build a clone of kickstarter, which makes it difficult for scammers to take advantage of the platform._
   - Used **Ethereum** and **Solidity** to implement the contract.
   - Implemented contract - [link](https://github.com/pskanade/fundMe-With-Ethereum/blob/master/contracts/src/Campaign.sol)
@@ -78,8 +81,8 @@ published: true
 		<ul>
      <li>Python</li>
      <li>Java-Core</li>
-     <li>Javascript)</li>
-     <li>Solidity)</li>
+     <li>Javascript</li>
+     <li>Solidity</li>
      <li>C++</li>
      <li>HTML</li>
      <li>Linux Scripting</li>
@@ -88,6 +91,7 @@ published: true
 	<div class="4u 12u$(medium)">
   <h4>Libraries</h4>
     <ul>
+       <li>Django</li>
        <li>React.js</li>
        <li>Redux.js</li>
        <li>Materialize (CSS)</li>
@@ -98,11 +102,11 @@ published: true
     </ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
-  <h4>Frameworks/Platforms</h4>
+  <h4>Database</h4>
     <ul>
-     <li>Django</li>
-     <li>Unix & Linux</li>
-     <li>Ethereum</li>
+      <li>Postgresql</li>
+      <li>Redis</li>
+      <li>MongoDB</li>
     </ul>
 	</div>
 </div>
