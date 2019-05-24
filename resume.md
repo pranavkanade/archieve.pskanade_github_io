@@ -1,13 +1,14 @@
 ---
 layout: resume
 title: Karma
-landing-title: 'Resume'
+landing-title: Resume
 index: true
 nav-menu: true
 description: my resume
 image: assets/images/resume.png
 author: pranav kanade
 message: This is my resume
+published: true
 ---
 
 # Pranav Kanade
@@ -75,10 +76,10 @@ message: This is my resume
 	<div class="4u 12u$(medium)">
   <h4>Programming Languages</h4>
 		<ul>
-     <li>Python (Proficient)</li>
+     <li>Python</li>
      <li>Java-Core</li>
-     <li>Javascript (Intermediate)</li>
-     <li>Solidity (Intermediate)</li>
+     <li>Javascript)</li>
+     <li>Solidity)</li>
      <li>C++</li>
      <li>HTML</li>
      <li>Linux Scripting</li>
@@ -87,20 +88,21 @@ message: This is my resume
 	<div class="4u 12u$(medium)">
   <h4>Libraries</h4>
     <ul>
-     <li>Numpy (Proficient)</li>
-     <li>Beautiful Soup (Proficient)</li>
-     <li>Spacy (NLP)(Proficient)</li>
-     <li>React.js (Intermediate)</li>
-     <li>Tensorflow(Intermediate)</li>
-     <li>Materialize (CSS)</li>
+       <li>React.js</li>
+       <li>Redux.js</li>
+       <li>Materialize (CSS)</li>
+       <li>Numpy</li>
+       <li>Beautiful Soup</li>
+       <li>Spacy (NLP)</li>
+       <li>Tensorflow</li>
     </ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
   <h4>Frameworks/Platforms</h4>
     <ul>
-     <li>Unix & Linux (Proficient)</li>
-     <li>Ethereum (Intermediate)</li>
-     <li>Django (Beginner)</li>
+     <li>Django</li>
+     <li>Unix & Linux</li>
+     <li>Ethereum</li>
     </ul>
 	</div>
 </div>
@@ -146,4 +148,3 @@ message: This is my resume
 | **Qualification**            | College/School                                   | University/Board | Aggregate percentage | Duration    |
 | ---------------------------- | ------------------------------------------------ | ---------------- | -------------------- | ----------- |
 | Bachelor of Engineering (CS) | D. Y. Patil College Of Engineering, Akurdi, Pune | Pune University  | 76.5%                | 2013 - 2017 |
-
